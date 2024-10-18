@@ -1,7 +1,5 @@
 import "../css/hero.css";
 
-import javaApp from "../download/javaProjeto.jar"
-
 function Hero() {
     return (
         <main className="hero-container">
@@ -24,7 +22,7 @@ function Hero() {
                         <p>Gestão eficiente para a equipe de TI.</p>
                     </div>
                 </div>
-                <a href={javaApp} className="download-button">
+                <a href="/javaProjeto.jar" className="download-button" download>
                     Baixar JDesk
                 </a>
                 <p className="obs"><span className="text-red">OBS:</span> JDesk está disponível apenas para computadores. <br /> Windows, macOS e Linux.</p>

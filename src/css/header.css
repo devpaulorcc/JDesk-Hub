@@ -1,0 +1,28 @@
+header{
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fff;
+    border-bottom: 1px solid #005495;
+}
+
+.logo-senac{
+    width: 80px;
+}
+
+.ul-items{
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+    color: #005495;
+}
+
+.icon-header{
+    cursor: pointer;
+}
+
+.icon-header:hover{
+    color: #f78c19;
+}

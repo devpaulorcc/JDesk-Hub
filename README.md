@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+## Base Url
+```bash
+  https://jdesk-hub.vercel.app
+```
+

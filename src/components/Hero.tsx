@@ -8,6 +8,9 @@ function Hero() {
                 <p>
                     O JDesk é uma solução desenvolvida pela turma 17 do curso técnico em informática de Taboão da Serra que oferece uma experiência intuitiva e poderosa para fazer a mediação entre funcionários e a equipe de TI em uma empresa.
                 </p>
+                <p>
+                    
+                </p>
                 <div className="feature-cards">
                     <div className="card">
                         <h3>Cadastro e Login</h3>
@@ -22,11 +25,12 @@ function Hero() {
                         <p>Gestão eficiente para a equipe de TI.</p>
                     </div>
                 </div>
-                <a href="/javaProjeto.jar" className="download-button" download>
+                <a href="download/ProgramaJDesk.exe" className="download-button" download>
                     Baixar JDesk
                 </a>
                 <p className="obs"><span className="text-red">OBS:</span> JDesk está disponível apenas para computadores. <br /> Windows, macOS e Linux.</p>
             </section>
+            
         </main>
     );
 }

@@ -9,7 +9,7 @@ function Hero() {
                     O JDesk é uma solução desenvolvida pela turma 17 do curso técnico em informática de Taboão da Serra que oferece uma experiência intuitiva e poderosa para fazer a mediação entre funcionários e a equipe de TI em uma empresa.
                 </p>
                 <p>
-                    
+                    Para executar o software, é necessário o JRE (Java Runtime Environment), <a href="https://www.oracle.com/java/technologies/downloads/?er=221886" target="_blank" className="link">clique aqui para baixar</a>.
                 </p>
                 <div className="feature-cards">
                     <div className="card">

@@ -27,6 +27,15 @@ p {
     color: #555;
 }
 
+.link{
+    color: #30a5e0;
+    cursor: pointer;
+}
+
+.link:hover{
+    color: #f78c19;
+}
+
 .feature-cards {
     display: flex;
     justify-content: space-between;
